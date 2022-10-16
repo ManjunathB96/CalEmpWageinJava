@@ -10,7 +10,7 @@ public class EmployeeUC1 {
         }
         else {
             System.out.println("Employee is Absent is Name:Manjunath");
-            System.out.println("Employee is Absent is Name:Manjunath");
+
         }
     }
 }
